@@ -1,3 +1,6 @@
+Github URL:
+https://github.com/sureshgatech/cs7641-assignment1
+
 Environment:
 Used Anaconda and Jupiter Lab to work on the assignment. Here is the versions of the software
 Anaconda Navigator 2.0.4
